@@ -92,7 +92,7 @@ print(result["final_number1"],result["final_number2"])
 img_bytes = app.get_graph().draw_mermaid_png()
 
 # Save it as exercise_no_1.png in the current directory
-with open("exercise_no_3.png", "wb") as f:
+with open("exercise_no_4.png", "wb") as f:
     f.write(img_bytes)
 
 print("✅ Image saved as exercise_no_3.png in the current directory.")
