@@ -33,4 +33,4 @@ img_bytes = app.get_graph().draw_mermaid_png()
 with open("exercise_no_2.png", "wb") as f:
     f.write(img_bytes)
 
-print("✅ Image saved as exercise_no_1.png in the current directory.")
+print("✅ Image saved as exercise_no_2.png in the current directory.")
