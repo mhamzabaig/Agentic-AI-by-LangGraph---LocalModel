@@ -1,2 +1,6 @@
 exercise_env/
 *tempCodeRunnerFile.py
+models/
+*.gguf
+*.bin
+*.pth
