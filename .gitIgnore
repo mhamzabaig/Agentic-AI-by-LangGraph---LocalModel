@@ -3,7 +3,6 @@ exercise_env/
 models/
 *.gguf
 *.bin
-<<<<<<< HEAD
 *.pth
 
 # Python
@@ -31,6 +30,3 @@ datasets/
 
 # OS
 .DS_Store
-=======
-*.pth
->>>>>>> 0597389b84b2a8d895136189eb8c9b01918422e8
