@@ -1,0 +1,32 @@
+exercise_env/
+*tempCodeRunnerFile.py
+models/
+*.gguf
+*.bin
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+langProjectEnv/
+
+# Environment variables
+.env
+
+# Models
+*.gguf
+*.bin
+models/
+
+# LangGraph / LangChain logs
+*.log
+
+# Data
+data/
+datasets/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
